@@ -1,3 +1,6 @@
+# Remove mac files
+.DS_Store
+
 # Remove projects
 projects/
 
